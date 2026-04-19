@@ -1,5 +1,5 @@
-CB-Logbuch v1.0.1 - Programminformationen
-Stand: 18.04.2026
+CB-Logbuch v1.0.2 - Programminformationen
+Stand: 19.04.2026
 =========================================
 
 Dieses Programm ist ein spezialisiertes Logbuch-Tool für CB- und Amateurfunk-Enthusiasten. 
