@@ -1,4 +1,4 @@
-# CB-Logbuch v1.0.2
+# CB-Logbuch v1.0.3
 
 Ein modernes und effizientes Logbuch-Programm für CB-Funk und Amateurfunk, entwickelt in Python mit Tkinter.
 
@@ -6,7 +6,7 @@ Ein modernes und effizientes Logbuch-Programm für CB-Funk und Amateurfunk, entw
 
 - **QSO-Management**: Schnelle Erfassung von Funkkontakten mit automatischer Entfernungsberechnung (Maidenhead Locator).
 - **CAT-Interface**: Unterstützung für Hamlib (`rigctld`), um Frequenz und Modus automatisch vom Funkgerät zu übernehmen.
-- **Auto-Import**: Überwacht ADIF-Dateien von Drittsoftware wie WSJT-X oder JS8Call und importiert neue Kontakte automatisch.
+- **Auto-Import**: Überwacht ADIF-Dateien von Drittsoftware wie WSJT-X, JS8Call oder wsjt-cb und importiert neue Kontakte automatisch.
 - **Live-ADIF Export**: Schreibt QSOs in Echtzeit in eine ADIF-Datei für externes Logging.
 - **Datenbank**: Nutzt SQLite für zuverlässige lokale Datenspeicherung.
 - **Backup-System**: Erstellt beim Beenden automatisch Backups der Datenbank.
