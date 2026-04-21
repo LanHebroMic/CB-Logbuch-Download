@@ -1,4 +1,5 @@
-# CB-Logbuch v1.0.3
+# CB-Logbuch v1.0.4
+
 
 Ein modernes und effizientes Logbuch-Programm für CB-Funk und Amateurfunk, entwickelt in Python mit Tkinter.
 
