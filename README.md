@@ -1,4 +1,4 @@
-# CB-Logbuch v1.0.4
+# CB-Logbuch v1.0.5
 
 
 Ein modernes und effizientes Logbuch-Programm für CB-Funk und Amateurfunk, entwickelt in Python mit Tkinter.
@@ -15,13 +15,19 @@ Ein modernes und effizientes Logbuch-Programm für CB-Funk und Amateurfunk, entw
 
 ## Installation
 
-Das Programm benötigt Python 3.x. Es werden keine externen Bibliotheken außerhalb der Standard-Distribution benötigt (Tkinter ist unter Windows standardmäßig dabei).
+### Windows
+1. Paket herunterladen.
+2. CB-Logbuch_Setup_1.0.5.exe installieren:per Doppelklick starten.
+Dadurch wird das Programm im Startmenü registriert und alle Abhängigkeiten automatisch installiert.
 
-1. Python installieren.
-2. Das Skript `logbuch.py` ausführen:
+### Linux (Debian/Ubuntu/Raspberry Pi OS)
+Der einfachste Weg ist das Debian-Paket:
+1. Paket herunterladen.
+2. Installieren mit:
    ```bash
-   python logbuch.py
+   sudo apt install ./cb-logbuch_1.0.5_all.deb
    ```
+Dadurch wird das Programm im Startmenü registriert und alle Abhängigkeiten automatisch installiert.
 
 ## Bedienung & Tastenkürzel
 
