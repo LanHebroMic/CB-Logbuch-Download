@@ -1,12 +1,12 @@
-# CB-Logbuch v1.0.5
-
+# CB-Logbuch v1.0.6
+**Entwickler: LanHebroMic**
 
 Ein modernes und effizientes Logbuch-Programm für CB-Funk und Amateurfunk, entwickelt in Python mit Tkinter.
 
 ## Features
 
 - **QSO-Management**: Schnelle Erfassung von Funkkontakten mit automatischer Entfernungsberechnung (Maidenhead Locator).
-- **CAT-Interface**: Unterstützung für Hamlib (`rigctld`), um Frequenz und Modus automatisch vom Funkgerät zu übernehmen.
+- **Erweitertes CAT-Interface**: Unterstützung für Hamlib (`rigctld`) mit automatischem Hintergrund-Start, Modellauswahl und Pfad-Erkennung.
 - **Auto-Import**: Überwacht ADIF-Dateien von Drittsoftware wie WSJT-X, JS8Call oder wsjt-cb und importiert neue Kontakte automatisch.
 - **Live-ADIF Export**: Schreibt QSOs in Echtzeit in eine ADIF-Datei für externes Logging.
 - **Datenbank**: Nutzt SQLite für zuverlässige lokale Datenspeicherung.
@@ -17,7 +17,7 @@ Ein modernes und effizientes Logbuch-Programm für CB-Funk und Amateurfunk, entw
 
 ### Windows
 1. Paket herunterladen.
-2. CB-Logbuch_Setup_1.0.5.exe installieren:per Doppelklick starten.
+2. CB-Logbuch_Setup_1.0.6.exe installieren:per Doppelklick starten.
 Dadurch wird das Programm im Startmenü registriert und alle Abhängigkeiten automatisch installiert.
 
 ### Linux (Debian/Ubuntu/Raspberry Pi OS)
@@ -25,7 +25,7 @@ Der einfachste Weg ist das Debian-Paket:
 1. Paket herunterladen.
 2. Installieren mit:
    ```bash
-   sudo apt install ./cb-logbuch_1.0.5_all.deb
+   sudo apt install ./cb-logbuch_1.0.6_all.deb
    ```
 Dadurch wird das Programm im Startmenü registriert und alle Abhängigkeiten automatisch installiert.
 
