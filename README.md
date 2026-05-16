@@ -1,4 +1,4 @@
-# CB-Logbuch v1.2.0
+# CB-Logbuch v1.2.1
 **Entwickler: LanHebroMic**
 
 Ein modernes und effizientes Logbuch-Programm für CB-Funk und Amateurfunk, entwickelt in Python mit Tkinter.
@@ -24,7 +24,7 @@ Ein modernes und effizientes Logbuch-Programm für CB-Funk und Amateurfunk, entw
 
 ### Windows
 1. Paket herunterladen.
-2. CB-Logbuch_Setup_1.2.0.exe installieren: per Doppelklick starten.
+2. CB-Logbuch_Setup_1.2.1.exe installieren: per Doppelklick starten.
 Dadurch wird das Programm im Startmenü registriert und alle Abhängigkeiten automatisch installiert.
 
 ### Linux (Debian/Ubuntu/Raspberry Pi OS)
@@ -32,7 +32,7 @@ Der einfachste Weg ist das Debian-Paket:
 1. Paket herunterladen.
 2. Installieren mit:
    ```bash
-   sudo apt install ./cb-logbuch_1.2.0_all.deb
+   sudo apt install ./cb-logbuch_1.2.1_all.deb
    ```
 Dadurch wird das Programm im Startmenü registriert und alle Abhängigkeiten automatisch installiert.
 
