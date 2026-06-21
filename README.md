@@ -1,4 +1,4 @@
-# CB-Logbuch v1.3.0
+# CB-Logbuch v1.3.1
 **Entwickler: LanHebroMic**
 
 Ein modernes und effizientes Logbuch-Programm für CB-Funk und Amateurfunk, entwickelt in Python mit Tkinter.
@@ -26,7 +26,7 @@ Ein modernes und effizientes Logbuch-Programm für CB-Funk und Amateurfunk, entw
 
 ### Windows
 1. Paket herunterladen.
-2. `CB-Logbuch_Setup_1.3.0.exe` per Doppelklick starten.
+2. `CB-Logbuch_Setup_1.3.1.exe` per Doppelklick starten.
 
 Dadurch wird das Programm im Startmenü registriert und alle Abhängigkeiten automatisch installiert.
 
@@ -35,7 +35,7 @@ Der einfachste Weg ist das Debian-Paket:
 1. Paket herunterladen.
 2. Installieren mit:
    ```bash
-   sudo apt install ./cb-logbuch_1.3.0_all.deb
+   sudo apt install ./cb-logbuch_1.3.1_all.deb
    ```
 Dadurch wird das Programm im Startmenü registriert und alle Abhängigkeiten automatisch installiert.
 
@@ -56,4 +56,4 @@ Alle Einstellungen (eigener Locator, Rufzeichen, Pfade für den Auto-Import) kö
 Die Nutzung erfolgt auf eigene Gefahr. Bitte erstelle regelmäßig manuelle Sicherheitskopien der Datenbank. Für MySQL-Datenbanken obliegt die Sicherung dem Nutzer. Weitere Details im Programm unter **Info → Haftungsausschluss**.
 
 ---
-*Entwickelt für die Funk-Community – Mai 2026 · v1.3.0*
+*Entwickelt für die Funk-Community – Juni 2026 · v1.3.1*
